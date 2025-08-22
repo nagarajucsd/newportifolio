@@ -6,29 +6,28 @@ import { Code2, Cloud, Settings, Database, Monitor } from 'lucide-react';
 const Skills = () => {
   const skillCategories = [
     {
-      title: "Programming & Scripting",
-      icon: Code2,
-      skills: ["Java", "Python", "JavaScript", "HTML", "CSS", "React"],
-      color: "text-tech-blue"
-    },
-    {
       title: "Cloud Platforms",
       icon: Cloud,
       skills: ["AWS EC2", "AWS S3", "AWS IAM", "AWS Lambda", "CloudFormation"],
       color: "text-tech-cyan"
     },
+
+    
+    
     {
       title: "DevOps Tools",
       icon: Settings,
       skills: ["Git", "GitHub", "CI/CD", "Docker", "Jenkins", "Kubernetes"],
       color: "text-tech-green"
     },
+    
     {
-      title: "Databases",
-      icon: Database,
-      skills: ["MySQL", "JDBC"],
-      color: "text-tech-purple"
+      title: "Programming & Scripting",
+      icon: Code2,
+      skills: ["Java", "Python", "JavaScript", "HTML", "CSS", "React"],
+      color: "text-tech-blue"
     },
+
     {
       title: "Operating Systems",
       icon: Monitor,

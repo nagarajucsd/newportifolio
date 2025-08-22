@@ -59,7 +59,7 @@ const Contact = () => {
                   
                   <Button variant="outline" size="lg" asChild>
                     <a 
-                      href="https://github.com/danduramaraju" 
+                      href="https://github.com/Nagaraju-209" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2"
