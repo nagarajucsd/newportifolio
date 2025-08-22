@@ -20,7 +20,7 @@ const Hero = () => {
           
           <div className="flex flex-wrap justify-center gap-4 mb-8">
             <Button variant="hero" size="lg" asChild>
-              <a href="https://www.linkedin.com/in/dandu-rama-siva-naga-raju-773333328" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/dandu-rama-siva-naga-raju" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="mr-2 h-5 w-5" />
                 LinkedIn
               </a>
