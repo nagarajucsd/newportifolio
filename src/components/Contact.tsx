@@ -47,7 +47,7 @@ const Contact = () => {
                 <div className="flex justify-center gap-4">
                   <Button variant="hero" size="lg" asChild>
                     <a 
-                      href="https://www.linkedin.com/in/dandu-rama-siva-naga-raju-773333328" 
+                      href="https://www.linkedin.com/in/dandu-rama-siva-naga-raju" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2"
