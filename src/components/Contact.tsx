@@ -75,7 +75,7 @@ const Contact = () => {
               <div className="text-center p-4 rounded-lg bg-primary/10 border border-primary/20">
                 <p className="text-sm text-muted-foreground">
                   <strong>Open to opportunities:</strong> DevOps Engineer, Cloud Architect, Software Developer roles. 
-                  Available for immediate start upon graduation in May 2025.
+                  Available for immediate start upon graduation in 2025.
                 </p>
               </div>
             </CardContent>
